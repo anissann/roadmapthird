@@ -1,0 +1,58 @@
+body {
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.content {
+    background-color: white;
+    width: 500px;
+    height: auto;
+    border-radius: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center; 
+    justify-content: center;
+    align-items: center;
+
+}
+
+img {
+    width: 60px;
+    height: auto;
+    margin-left: 0px
+}
+
+.discount {
+    color: rgb(255, 200, 0);
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+button {
+    border: none;
+    background-color: rgb(0, 0, 61);
+    color: white;
+    padding: 10px;
+    font-size: 11px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.congrats {
+    font-size: 18px;
+}
+
+.p1 {
+    font-size: 13px;
+    margin-top: 25px;
+}
